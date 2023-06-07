@@ -1,0 +1,1 @@
+Test CRUD application with Ruby-on-Rails, copied pretty much line for line from the Rails documentation
